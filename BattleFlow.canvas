@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"e51f0f9fc61d1673","x":-145,"y":-118,"width":250,"height":60,"type":"text","text":"战斗流程及卡牌结算规则"},
+		{"id":"35a6e61f51530969","x":160,"y":-118,"width":540,"height":400,"type":"file","file":"GamePlay.md"},
+		{"id":"39c02b69fc704e2b","x":-145,"y":22,"width":250,"height":60,"type":"text","text":"触发剧情进入战斗场景"},
+		{"id":"63cd32f30d1420a9","x":-145,"y":140,"width":250,"height":120,"type":"text","text":"新游戏回合开始\n双方开始抽牌\n投骰子决定玩家或敌人先后手"},
+		{"id":"aef9b796dd0ac04e","x":-360,"y":420,"width":250,"height":60,"type":"text","text":"玩家先手"},
+		{"id":"3122deda05cd320a","x":60,"y":420,"width":250,"height":60,"type":"text","text":"敌方先手\n敌方"}
+	],
+	"edges":[
+		{"id":"0c8fd1e77231c712","fromNode":"39c02b69fc704e2b","fromSide":"bottom","toNode":"63cd32f30d1420a9","toSide":"top"},
+		{"id":"8044d091704792cc","fromNode":"63cd32f30d1420a9","fromSide":"bottom","toNode":"aef9b796dd0ac04e","toSide":"top","label":"若骰子点数为偶数"},
+		{"id":"1b54cb8529c4554c","fromNode":"63cd32f30d1420a9","fromSide":"bottom","toNode":"3122deda05cd320a","toSide":"top","label":"若骰子点数为奇数"}
+	]
+}
