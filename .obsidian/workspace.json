@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "e8f2fcbbee2bacc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "62f61072ad8d0200",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f0efe3cd3b7d9b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GameDesignDocument.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60fe2da6f77788a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GamePlay.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ebd73960ad89680",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CardDesign.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a0273996b6443b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbdd9805556112a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c55351494639e64e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63d33c52e00d4dad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "231413504003fc89",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "236b61ded55792d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7be5e36408deb72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cb4937df3302526",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CardDesign.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4d8c2197f3c3b0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CardDesign.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73ccaee69f74975d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "89197f08baac347a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CardDesign.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "7ebd73960ad89680",
+  "lastOpenFiles": [
+    "未命名.canvas",
+    "CardDesign.md",
+    "2024-04-14.md",
+    "GameDesignDocument.md",
+    "Story.md",
+    "GamePlay.md",
+    "create a link.md"
+  ]
+}
