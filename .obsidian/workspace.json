@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CardDesign.md",
+                "file": "GameDesignDocument.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CardDesign.md",
+                "file": "GameDesignDocument.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CardDesign.md"
+                "file": "GameDesignDocument.md"
               }
             }
           }
@@ -171,14 +170,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7ebd73960ad89680",
+  "active": "1f0efe3cd3b7d9b6",
   "lastOpenFiles": [
-    "未命名.canvas",
+    "GamePlay.md",
     "CardDesign.md",
+    "未命名.canvas",
     "2024-04-14.md",
     "GameDesignDocument.md",
     "Story.md",
-    "GamePlay.md",
     "create a link.md"
   ]
 }
