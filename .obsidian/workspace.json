@@ -11,9 +11,24 @@
             "id": "60fe2da6f77788a6",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "BattleFlow.canvas",
+                "viewState": {
+                  "x": -155,
+                  "y": 525.3528301886793,
+                  "zoom": -0.9173777093854322
+                }
+              }
+            }
+          },
+          {
+            "id": "5b0b9954806e16e0",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "CardDesign.md",
+                "file": "Rule.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CardDesign.md",
+                "file": "Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CardDesign.md",
+                "file": "Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CardDesign.md"
+                "file": "Rule.md"
               }
             }
           }
@@ -158,15 +174,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "60fe2da6f77788a6",
+  "active": "5b0b9954806e16e0",
   "lastOpenFiles": [
-    "GamePlay.md",
-    "README.md",
     "Story.md",
-    "BattleFlow.canvas",
-    "战斗流程设定 1.png",
-    "GameDesignDocument.md",
     "CardDesign.md",
+    "Rule.md",
+    "BattleFlow.canvas",
+    "README.md",
+    "GamePlay.md",
+    "GameDesignDocument.md",
+    "战斗流程设定 1.png",
     "战斗流程设定.png",
     "2024-04-14.md",
     "create a link.md"
