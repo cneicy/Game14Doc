@@ -26,11 +26,14 @@
             "id": "5b0b9954806e16e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "GameDesignDocument.md",
-                "mode": "source",
-                "source": false
+                "file": "BattleFlow.canvas",
+                "viewState": {
+                  "x": 122.63584905660377,
+                  "y": 734.9962264150943,
+                  "zoom": -0.9173777093854322
+                }
               }
             }
           },
@@ -113,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GameDesignDocument.md",
+                "file": "Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GameDesignDocument.md",
+                "file": "Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GameDesignDocument.md"
+                "file": "Rule.md"
               }
             }
           }
@@ -178,9 +181,9 @@
   "lastOpenFiles": [
     "CardDesign.md",
     "Rule.md",
-    "GameDesignDocument.md",
     "README.md",
     "GamePlay.md",
+    "GameDesignDocument.md",
     "Story.md",
     "BattleFlow.canvas",
     "战斗流程设定 1.png",
