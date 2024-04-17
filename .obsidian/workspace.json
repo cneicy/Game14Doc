@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Rule.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Rule.md"
               }
             }
           }
@@ -177,12 +177,12 @@
   "active": "5b0b9954806e16e0",
   "lastOpenFiles": [
     "GamePlay.md",
-    "Story.md",
-    "BattleFlow.canvas",
-    "CardDesign.md",
     "Rule.md",
+    "Story.md",
     "README.md",
     "GameDesignDocument.md",
+    "CardDesign.md",
+    "BattleFlow.canvas",
     "战斗流程设定 1.png",
     "战斗流程设定.png",
     "2024-04-14.md",

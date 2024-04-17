@@ -14,7 +14,7 @@
 		{"id":"cacc96ed3cb93ab7","type":"text","text":"若同一组发动效果类型相同则根据同组结算后双方在那一组的果数大小决定破坏(无效化)哪一方卡牌。\n若双方效果不同，则根据类型比对发动——攻击对反击若攻击点数大则破坏反击效果，若反击点数大则破坏攻击效果，反击成功则发动反击连携效果","x":-145,"y":1195,"width":370,"height":220},
 		{"id":"f0046d19a35e1b2c","type":"text","text":"如图所示，当卡数不一致时多卡牌数方的结束卡会与对方结束卡进行判定\n","x":-513,"y":1088,"width":355,"height":75},
 		{"id":"35a6e61f51530969","type":"file","file":"GamePlay.md","x":170,"y":-58,"width":540,"height":653},
-		{"id":"6af66a0eb3ff07aa","x":-1080,"y":530,"width":400,"height":400,"type":"file","file":"Rule.md"}
+		{"id":"6af66a0eb3ff07aa","type":"file","file":"Rule.md","x":-1080,"y":530,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"0c8fd1e77231c712","fromNode":"39c02b69fc704e2b","fromSide":"bottom","toNode":"63cd32f30d1420a9","toSide":"top"},
