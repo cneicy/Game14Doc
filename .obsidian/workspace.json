@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Card/Effect.md",
+                "file": "Player/Player.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Card/Effect.md",
+                "file": "Player/Player.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Card/Effect.md",
+                "file": "Player/Player.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Card/Effect.md"
+                "file": "Player/Player.md"
               }
             }
           }
@@ -148,13 +148,15 @@
   },
   "active": "5b0b9954806e16e0",
   "lastOpenFiles": [
-    "Card/CardDesign Document.md",
+    "System/GamePlay.md",
+    "Player/Player.md",
+    "Player",
     "Card/Effect.md",
+    "Card/CardDesign Document.md",
     "Story/Story.md",
     "System/Rule.md",
     "Images/战斗流程设定 1.png",
     "GameDesignDocument.md",
-    "System/GamePlay.md",
     "System/BattleFlow.canvas",
     "Story",
     "Images",
