@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Card/Effect.md",
+                "file": "Card/CardDesign Document.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Card/Effect.md",
+                "file": "Card/CardDesign Document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Card/Effect.md",
+                "file": "Card/CardDesign Document.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Card/Effect.md"
+                "file": "Card/CardDesign Document.md"
               }
             }
           }
@@ -148,21 +148,21 @@
   },
   "active": "5b0b9954806e16e0",
   "lastOpenFiles": [
-    "Card/CardDesign Document.md",
     "Card/Effect.md",
-    "Images/战斗流程设定 1.png",
     "Player/Player.md",
-    "System/Rule.md",
     "Story/Story.md",
-    "System/GamePlay.md",
-    "Player",
-    "GameDesignDocument.md",
     "System/BattleFlow.canvas",
+    "System/GamePlay.md",
+    "README.md",
+    "GameDesignDocument.md",
+    "System/Rule.md",
+    "Card/CardDesign Document.md",
+    "Images/战斗流程设定 1.png",
+    "Player",
     "Story",
     "Images",
     "System",
     "Card",
-    "README.md",
     "战斗流程设定.png",
     "2024-04-14.md",
     "create a link.md"

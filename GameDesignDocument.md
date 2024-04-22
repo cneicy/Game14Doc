@@ -13,7 +13,7 @@
   
 ---  
   
-[GamePlay Document](GamePlay.md)   [CardDesign Document](CardDesign%20Document.md)  [Story Document](Story.md) [Rule Document](Rule.md)
+[GamePlay Document](GamePlay.md)   [CardDesign Document](CardDesign%20Document.md)  [Story Document](Story.md) [Rule Document](Rule.md) [Effect Document](Effect.md)
   
 ---  
   
