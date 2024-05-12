@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Card/CardDesign Document.md",
+                "file": "System/Art.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Card/CardDesign Document.md",
+                "file": "System/Art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Card/CardDesign Document.md",
+                "file": "System/Art.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Card/CardDesign Document.md"
+                "file": "System/Art.md"
               }
             }
           }
@@ -148,15 +148,22 @@
   },
   "active": "5b0b9954806e16e0",
   "lastOpenFiles": [
-    "Card/Effect.md",
-    "Player/Player.md",
-    "Story/Story.md",
-    "System/BattleFlow.canvas",
-    "System/GamePlay.md",
-    "README.md",
     "GameDesignDocument.md",
-    "System/Rule.md",
+    "System/Art.md",
+    "System/BattleFlow.canvas",
+    "Story/Story.md",
+    "Player/Player.md",
+    "Card/Effect.md",
     "Card/CardDesign Document.md",
+    "Card/Card Library.md",
+    "Images/纸纹理3.jpeg",
+    "Images/纸纹理2.jpg",
+    "Images/纸纹理1.jpg",
+    "Images/卡牌样张.png",
+    "卡牌样张.psd",
+    "System/GamePlay.md",
+    "System/Rule.md",
+    "README.md",
     "Images/战斗流程设定 1.png",
     "Player",
     "Story",
